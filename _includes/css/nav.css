@@ -1,0 +1,16 @@
+/* Navigation Style */
+nav ul{
+	margin: auto;
+	padding: 0;
+}
+
+nav ul li{
+	display: inline-block;
+	padding-right: 5px;
+	list-style: none;
+}
+
+.nav-top{
+font-size: 1em;
+}
+.nav-bottom{}

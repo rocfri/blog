@@ -1,0 +1,4 @@
+title: RocFri Portfolio
+markdown: kramdown
+baseurl: ""
+exlcude: ['README.md', Gemfile, Gemfile.lock]

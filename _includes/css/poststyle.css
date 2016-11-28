@@ -1,0 +1,10 @@
+/*post style*/
+.blog_post{
+text-align: left;
+font-weight: ligher;
+}
+
+p{
+  padding:5px;
+  text-indent: 20px;
+}

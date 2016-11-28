@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://localhost:4000/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2016-11-27T18:43:42-07:00</updated><id>http://localhost:4000//</id><title type="html">RocFri Portfolio</title><entry><title type="html">Where I was at in November 2016</title><link href="http://localhost:4000/updates/2016/11/26/update-nov.html" rel="alternate" type="text/html" title="Where I was at in November 2016" /><published>2016-11-26T00:00:00-07:00</published><updated>2016-11-26T00:00:00-07:00</updated><id>http://localhost:4000/updates/2016/11/26/update-nov</id><content type="html" xml:base="http://localhost:4000/updates/2016/11/26/update-nov.html">&lt;h2&gt;Where I'm at&lt;/h2&gt;
+&lt;h3&gt;November 2016&lt;/h3&gt;
+
+&lt;p&gt;##This Site…##&lt;/p&gt;
+
+&lt;p&gt;I’m still figuring out how to make Jekyll work with Kramdown and design elements. Locally, it isn’t panning out correctly. I was told to give Jekyll a try and so I have. I have a Windows computer, because flexibility.&lt;/p&gt;
+
+&lt;p&gt;The biggest problem I really ran into with Jekyll was Gem compatibility and building Jekyll’s pre-made site with SASS since I don’t really care for SASS. This is solvable by running bundle and my other problems became solvable by updating my Gem version (to correct version and then to the new one) and making sure my paths were right.&lt;/p&gt;
+
+&lt;p&gt;I design all my sites for an 8” tablet screen. Usually, looks good within approximately 2” difference in screens. Seeing as Jekyll is a static site generator I don’t have too much to worry about as far as JS and cross functionality, though I’ll be continually updating here.&lt;/p&gt;
+
+&lt;p&gt;I’ll write something up about my experience with Jekyll soon.&lt;/p&gt;
+
+&lt;p&gt;###Projects…##&lt;/p&gt;
+
+&lt;p&gt;Around 7 months ago I set out to find a project to work on. My background is mostly web, so I figured that was a good starting point.,] I found a multitude of technologies and decided to start with WordPress. After numerous tutorials, I have some PHP/WP under my belt.&lt;/p&gt;
+
+&lt;p&gt;My projects are pretty small right now. I’m working on a site for someone I know and my plan is to finish what I started with WP before putting too much time into a new project. I’m still working on getting a good grasp on Ruby, Python and frameworks.&lt;/p&gt;
+
+&lt;p&gt;###School…##&lt;/p&gt;
+
+&lt;p&gt;My undergrad degree was in humanities and I’ve always felt that wasn’t the best decision. I know there are plenty of ways to learn the coding skills I need to get a job, but the approaches I found felt a little short sited. I decided going back to school for a Masters in Software Engineering was a better option for me. There are a lot of great programs out there, but for depth and solid foundational knowledge, academia appeared to be the best choice. And some of the boot camp programs are just as much as costly as a Masters degree.&lt;/p&gt;
+
+&lt;p&gt;During the school semester the bulk of my free time (I work full time too in a non-tech industry) goes to school work.&lt;/p&gt;</content><category term="updates" /><summary type="html">Where I'm at
+November 2016</summary></entry></feed>
