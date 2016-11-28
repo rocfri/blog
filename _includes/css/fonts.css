@@ -9,7 +9,6 @@
 
 
 .header{
-  font-family: 'Vampiro One', cursive;
 }
 
 
@@ -29,6 +28,10 @@ h1{
 
 h2{
   font-size: 1.2em;
+}
+
+h3{
+  font-size:1em;
 }
 
 nav{
