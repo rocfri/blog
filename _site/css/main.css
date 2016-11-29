@@ -1,3 +1,4 @@
+/*-----Common Shared CSS-----*/
 *{
 	margin: 0;
 	padding: 0;
@@ -33,18 +34,19 @@ ul li{
 
 }
 
-a{
-	text-decoration: none;
-	color:#000;
-}
+
 
 
 footer{
 	bottom:0px;
 	position:fixed;
 	width: 80%;
+	background-color:#fff;
+	clear:both;
 }
-/*Desktop screen*/
+
+/*--------------------------------------------------*/
+/*---------------------Desktop screen----------------*/
 @media screen and (min-width: 800px) {
 		#content{
 			padding-left: 5%;
@@ -54,7 +56,7 @@ footer{
 			width:70%
 		}
 		footer{
-			width: 60%;
+			width: 65%;
 		}
 	}
 
@@ -65,32 +67,35 @@ footer{
 @font-face {
 }
 
-/*imported*/
-/*Google Vampiro One*/
-@import url('https://fonts.googleapis.com/css?family=Vampiro+One');
-@import url('https://fonts.googleapis.com/css?family=Raleway');
-
-
-.header{
+.fontsize-lg{
+  font-size:2.5em;
 }
 
 
 h1, h2, h3{
   text-align: center;
-  font-family: 'Vampiro One', cursive;
+  font-family: 'Vampiro One', sans-serif;
+  font-weight:lighter;
+}
+
+a{
+	text-decoration: none;
+  font-family: 'Raleway', sans-serif;
+  color:#000;
 }
 
 p{
   font-family: 'Raleway', sans-serif;
+  font-weight: lighter;
 }
 
 h1{
   color: #967cb6;
-  font-size: 1.5em;
+  font-size: 2em;
 }
 
 h2{
-  font-size: 1.2em;
+  font-size: 1.6em;
 }
 
 h3{

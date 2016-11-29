@@ -10,4 +10,4 @@ The Github flavored variation of MD/Kramdown parser is not playing too well with
 
 This process of trying to make things work well together has been kind of a headache. It's infinitely easier to run Ruby on Windows (this is hard? I mean... there are a few installers for Ruby on Windows these days). Anyway, the latest thing is getting Jekyll to show Google fonts. Then finding out there's some security issue with the fonts or rather they're being blocked because I didn't specify google as a source. Not a problem I've had before. From a local standpoint, not sure why CSP would be interfering. Assuming it isn't, I'm still unable to get Jekyll to render the fonts correctly, so I have to run them the good ol' fashion way to see if I'm just misspelling or misplacing something.
 
-What do you know? Everything works just fine at the HTML/CSS level.  
+Everything works at the HTML/CSS level.  
