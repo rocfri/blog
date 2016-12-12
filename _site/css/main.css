@@ -89,6 +89,10 @@ p{
   font-weight: lighter;
 }
 
+p a{
+  color: blue;
+}
+
 h1{
   color: #967cb6;
   font-size: 2em;
@@ -115,7 +119,8 @@ nav ul{
 
 nav ul li{
 	display: inline-block;
-	padding-right: 5px;
+	padding-right: 7px;
+	width: 90px;
 	list-style: none;
 }
 
@@ -133,5 +138,9 @@ font-weight: ligher;
 p{
   padding:5px;
   text-indent: 20px;
+}
+
+.darkhumor{
+  text-decoration: none;
 }
 
