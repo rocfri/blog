@@ -1,22 +1,8 @@
 <!DOCTYPE html>
 	<html>
-	<head>
-		<title>{%if page.title %}{{page.title}} | {% endif %} RocFri {% if page.titleAfter %} | {{page.titleAfter}}{% endif %}</title>
-		<link href="{{site.baseurl}}/css/main.css" rel="stylesheet">
-		<!--Google Fonts-->
-		<link href="https://fonts.googleapis.com/css?family=Vampiro+One" rel="stylesheet">
-		<link href="https://fonts.googleapis.com/css?family=Raleway|Vampiro+One" rel="stylesheet">
-		<!--Metas-->
-		<meta name="description" content="{{page.meta}}">
-		<meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:">
-	</head>
+{% include head.html %}
 	<body>
-		<div id="frame">
-			<article>
-				<header>
-				<h1 class="fontsize-lg"> RocFri </h1>
-				{% include nav.html navclass='nav-top' %}
-				</header>
+		<article>
 				<br>
 					{{content}}
 				<br>
@@ -24,6 +10,6 @@
 				<footer>{% include nav.html navclass='nav-bottom' %}
 				</footer>
 			</article>
-		</div>
+
 	</body>
 	</html>

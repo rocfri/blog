@@ -4,8 +4,6 @@ category: updates
 layout: article
 
 ---
-<h2>Where I'm at</h2>
-<h3>November 2016</h3>
 
 This Site...
 <br>

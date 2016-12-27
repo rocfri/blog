@@ -1,9 +1,7 @@
 ---
-layout: default
+layout: projects_layout
 type: page
 title: Projects
 ---
-
 ## Projects ##
-
-Still planning this page.
+<br>

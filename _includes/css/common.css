@@ -20,7 +20,6 @@ body{
 }
 
 article{
-	width: 90%;
 	padding-top: 5%;
 	margin:inherit;
 }
@@ -31,9 +30,8 @@ article{
 }
 
 ul li{
-
+list-style: none;
 }
-
 
 
 
@@ -53,8 +51,12 @@ footer{
 			margin:auto;
 		}
 		#frame{
-			width:70%
+			width:70%;
 		}
+		#inner-frame{
+			
+		}
+
 		footer{
 			width: 65%;
 		}

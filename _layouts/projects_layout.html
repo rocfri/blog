@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{{content}}
+<br>
+  <div id="frame">
+    <ul id="col">
+    {% for post in site.posts %}
+      <li class="pin">
+        <a href="{{site.baseurl}}{{post.url}}">
+          <h3> {{post.title}}</h3>
+          <p>{{post.image}}{{post.excerpt}}</p></a>
+      </li><br>
+      {% endfor %}
+    </ul>
+  </div>
