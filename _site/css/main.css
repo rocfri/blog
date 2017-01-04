@@ -6,7 +6,6 @@
 
 body{
 	background: black;
-	margin: auto;
 	height: 100%;
 	text-align:center;
 }
@@ -18,7 +17,9 @@ body{
 	margin: auto;
 	background-color: #fff;
 }
-
+.center{
+	
+}
 article{
 	padding-top: 5%;
 	margin:inherit;
@@ -32,7 +33,6 @@ article{
 ul li{
 list-style: none;
 }
-
 
 
 footer{
@@ -54,7 +54,7 @@ footer{
 			width:70%;
 		}
 		#inner-frame{
-			
+
 		}
 
 		footer{
@@ -91,9 +91,10 @@ p{
   font-weight: lighter;
 }
 
-p a{
+p>a{
   color: blue;
 }
+
 
 h1{
   color: #967cb6;
@@ -160,9 +161,9 @@ p{
 
 .pin {
 	display: inline-block;
-	background: #FEFEFE;
+	background: red;
 	border: 2px solid #FAFAFA;
-	box-shadow: 0 1px 2px rgba(34, 25, 25, 0.4);
+	box-shadow: 0 2px 4px rgba(34, 25, 25, 0.4);
 	margin: 0 .5% 3%;
 	-webkit-column-break-inside: avoid;
 	-moz-column-break-inside: avoid;

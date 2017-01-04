@@ -24,9 +24,10 @@ p{
   font-weight: lighter;
 }
 
-p a{
+p>a{
   color: blue;
 }
+
 
 h1{
   color: #967cb6;

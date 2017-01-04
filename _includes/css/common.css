@@ -6,7 +6,6 @@
 
 body{
 	background: black;
-	margin: auto;
 	height: 100%;
 	text-align:center;
 }
@@ -18,7 +17,9 @@ body{
 	margin: auto;
 	background-color: #fff;
 }
-
+.center{
+	
+}
 article{
 	padding-top: 5%;
 	margin:inherit;
@@ -32,7 +33,6 @@ article{
 ul li{
 list-style: none;
 }
-
 
 
 footer{
@@ -54,7 +54,7 @@ footer{
 			width:70%;
 		}
 		#inner-frame{
-			
+
 		}
 
 		footer{
